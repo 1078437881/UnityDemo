@@ -59,6 +59,7 @@
     <Compile Include="Assets/Scripts/Scene/Script_03_15_Scene.cs" />
     <Compile Include="Assets/Scripts/Example/Script_5_11.cs" />
     <Compile Include="Assets/Scripts/Scene/ScreenSwitch.cs" />
+    <Compile Include="Assets/Scripts/Example/UIOrder.cs" />
     <Compile Include="Assets/Scripts/Script_05_03_ScrollRect.cs" />
     <Compile Include="Assets/Scripts/CameraController.cs" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
