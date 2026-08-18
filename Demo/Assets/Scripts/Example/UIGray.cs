@@ -23,7 +23,7 @@ namespace Example
 
         private static  Material _defaultGrayMaterial;
 
-        private static Material grayMaterial
+        private static Material GrayMaterial
         {
             get
             {
@@ -46,7 +46,7 @@ namespace Example
                 Image g = images[i];
                 if (isGray)
                 {
-                    g.material = grayMaterial;
+                    g.material = GrayMaterial;
                 }
                 else
                 {
