@@ -1,0 +1,24 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #NAME# : MonoBehaviour
+{
+    // 初始化
+    private void Awake()
+    {
+        
+    }
+
+    // 加载时执行一次
+    private void Start()
+    {
+        
+    }
+
+    // 每帧更新
+    private void Update()
+    {
+        
+    }
+}
