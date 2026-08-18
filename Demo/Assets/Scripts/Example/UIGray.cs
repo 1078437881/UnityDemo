@@ -29,7 +29,7 @@ namespace Example
             {
                 if (_defaultGrayMaterial == null)
                 {
-                    _defaultGrayMaterial = new Material(Shader.Find("UI/Gray"));
+                    _defaultGrayMaterial = new Material(Shader.Find("Unlit/UI_Gray"));
                 }
 
                 return _defaultGrayMaterial;
