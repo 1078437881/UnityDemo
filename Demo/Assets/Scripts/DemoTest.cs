@@ -14,6 +14,7 @@ public class DemoTest : MonoBehaviour
 
     public TextMeshProUGUI textShow;
     public TMP_InputField inputField;
+    public Button buttonPolyGon;
 
     [System.Serializable]
     public class CustomDataType
@@ -36,6 +37,11 @@ public class DemoTest : MonoBehaviour
 
             return addedChar;
         };
+        
+        buttonPolyGon.onClick.AddListener(delegate
+        {
+            Debug.Log("buttonPolyGon 被点击了");
+        });
     }
 
     // Update is called once per frame

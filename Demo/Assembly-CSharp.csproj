@@ -51,6 +51,7 @@
     <Compile Include="Assets/Scripts/DemoTest.cs" />
     <Compile Include="Assets/Scripts/Script_05_01_Text.cs" />
     <Compile Include="Assets/Scripts/Script_05_10.cs" />
+    <Compile Include="Assets/Scripts/Example/UIPolygon.cs" />
     <Compile Include="Assets/Scripts/Script_05_08_Event.cs" />
     <Compile Include="Assets/Scripts/UGUIEventListener.cs" />
     <Compile Include="Assets/Scripts/Script_05_02_button.cs" />
