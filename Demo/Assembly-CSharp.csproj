@@ -59,9 +59,11 @@
     <Compile Include="Assets/Scripts/Script_04_03.cs" />
     <Compile Include="Assets/Scripts/Scene/Script_03_15_Scene.cs" />
     <Compile Include="Assets/Scripts/Example/Script_5_11.cs" />
+    <Compile Include="Assets/Scripts/Animation/OnlineActivityView.cs" />
     <Compile Include="Assets/Scripts/Scene/ScreenSwitch.cs" />
     <Compile Include="Assets/Scripts/Example/UIOrder.cs" />
     <Compile Include="Assets/Scripts/Script_05_03_ScrollRect.cs" />
+    <Compile Include="Assets/Scripts/Animation/AnimationEvent.cs" />
     <Compile Include="Assets/Scripts/CameraController.cs" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
@@ -790,6 +792,9 @@
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Volumes/wanyibo/UnityProjects/Test/UnityDemo/Demo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>/Volumes/wanyibo/UnityProjects/Test/UnityDemo/Demo/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
       <HintPath>/Volumes/wanyibo/UnityProjects/Test/UnityDemo/Demo/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
